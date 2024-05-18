@@ -3,7 +3,7 @@
 
 A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
 
-Simple algorithm: [prime-number.js](./prime-number.js)
-
-Optimized algorithm: [prime-number-optimized.js](./prime-number-optimized.js)
+Algorithms:
+- O(n): [prime-number.js](./prime-number.js)
+- O(sqrt(n)): [prime-number-optimized.js](./prime-number-optimized.js)
 

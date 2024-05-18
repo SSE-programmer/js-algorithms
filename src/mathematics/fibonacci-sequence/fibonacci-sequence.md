@@ -5,4 +5,5 @@ In mathematics, the Fibonacci sequence in which each number is the sum of the tw
 
 The first two numbers in the sequence are 0 and 1.
 
-Algorithm: [fibonacci-sequence.js](./fibonacci-sequence.js)
+Algorithms:
+- O(n): [fibonacci-sequence.js](./fibonacci-sequence.js)

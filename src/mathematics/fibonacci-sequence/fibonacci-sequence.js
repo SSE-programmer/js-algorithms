@@ -13,4 +13,4 @@ function fibonacci(n) {
     return fib;
 }
 
-console.log(fibonacci(4));
+console.log(fibonacci(6)); // => [0, 1, 1, 2, 3, 5]

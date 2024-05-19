@@ -15,3 +15,4 @@ Here are information about algorithms with JavaScript. They classified into four
    1. [Bubble sort](./src/sorting/bubble-sort/bubble-sort.md)
    2. [Insertion sort](./src/sorting/insertion-sort/insertion-sort.md)
    3. [Quick sort](./src/sorting/quick-sort/quick-sort.md)
+   4. [Merge sort](./src/sorting/merge-sort/merge-sort.md)

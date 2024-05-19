@@ -3,4 +3,4 @@
 Return -1 if  the target element is not found.
 
 Algorithms:
-- O(n): [linear-search.js](./linear-search.js)
+- [linear-search.js](./linear-search.js) - O(n)

@@ -4,6 +4,6 @@
 A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
 
 Algorithms:
-- O(n): [prime-number.js](./prime-number.js)
-- O(sqrt(n)): [prime-number-optimized.js](./prime-number-optimized.js)
+- [prime-number.js](./prime-number.js) - O(n)
+- [prime-number-optimized.js](./prime-number-optimized.js) - O(sqrt(n))
 

@@ -6,5 +6,5 @@ In mathematics, the Fibonacci sequence in which each number is the sum of the tw
 The first two numbers in the sequence are 0 and 1.
 
 Algorithms:
-- O(n): [fibonacci-sequence.js](./fibonacci-sequence.js)
-- O(2<sup>n</sup>): [fibonacci-sequence-recursive.js](./fibonacci-sequence-recursive.js)
+- [fibonacci-sequence.js](./fibonacci-sequence.js) - O(n)
+- [fibonacci-sequence-recursive.js](./fibonacci-sequence-recursive.js) - O(2<sup>n</sup>)

@@ -3,5 +3,5 @@
 Return -1 if  the target element is not found.
 
 Algorithms:
-- O(log(n)): [binary-search.js](./binary-search.js)
-- O(log(n)): [binary-search-recursive.js](./binary-search-recursive.js)
+- [binary-search.js](./binary-search.js) - O(log(n))
+- [binary-search-recursive.js](./binary-search-recursive.js) - O(log(n))

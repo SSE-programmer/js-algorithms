@@ -13,3 +13,4 @@ Here are information about algorithms with JavaScript. They classified into four
    2. [Binary search](./src/search/binary-search/binary-search.md)
 4. Sorting
    1. [Bubble sort](./src/sorting/bubble-sort/bubble-sort.md)
+   1. [Insertion sort](./src/sorting/insertion-sort/insertion-sort.md)

@@ -5,4 +5,5 @@ In mathematics, the factorial of a non-negative integer 'n', denoted !n, is the 
 
 Algorithms:
 - O(n): [factorial.js](./factorial.js)
+- O(n): [factorial-recursive.js](./factorial-recursive.js)
 
